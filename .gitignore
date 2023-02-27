@@ -1,0 +1,4 @@
+env
+actix_backend/target
+.idea
+.env
